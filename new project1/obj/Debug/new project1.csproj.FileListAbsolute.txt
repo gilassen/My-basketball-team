@@ -1,0 +1,13 @@
+C:\Users\97254\Desktop\new project1\new project1\bin\Debug\new project1.exe.config
+C:\Users\97254\Desktop\new project1\new project1\bin\Debug\new project1.exe
+C:\Users\97254\Desktop\new project1\new project1\bin\Debug\new project1.pdb
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new_project1.Properties.Resources.resources
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.exe
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new project1.pdb
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new_project1.Coach.resources
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new_project1.CreateCoach.resources
+C:\Users\97254\Desktop\new project1\new project1\obj\Debug\new_project1.MaccabiTelAviv.resources
